@@ -1,1 +1,1 @@
-This Python file enables a SQL Database enquiries without writing SQL queries, and generating a detailed formatted writeup on the answers we get.
+Create SQL queries , execute it, right without knowing SQL , and get detailed descriptive output
